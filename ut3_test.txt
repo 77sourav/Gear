@@ -6,5 +6,6 @@ Modificaition to file
 Modify file
 Testing git fetch with single file
 Testing git pull with single file
-Testing git checkout with single file 
+Testing git checkout with single file
+Checking commit history 
 
